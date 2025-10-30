@@ -1,4 +1,4 @@
-# 🔐🧠 CyberLab
+# 🔐 CyberLab
 
 Laboratório de ferramentas e scripts para testes de segurança, análise de malware e técnicas de defesa cibernética.
 
@@ -24,8 +24,8 @@ Laboratório de ferramentas e scripts para testes de segurança, análise de mal
 
 \`\`\`bash
 # Clone o repositório
-git clone https://github.com/Erisksnt/Defense-Lab.git
-cd Defense-Lab
+git clone https://github.com/Erisksnt/CyberLab.git
+cd CyberLab
 
 # Instale as dependências (se necessário)
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## 📁 Estrutura do Projeto
 
 \`\`\`
-Defense-Lab/
+CyberLab/
 ├── Brute-Force-with-Medusa/  # Ferramentas de força bruta
 │   ├── Documentacao/         # Documentação técnica
 │   │   ├── Diagrams/         # Diagramas de rede
@@ -88,7 +88,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 ## 👨‍💻 Autor
 
 **Erick** - [Erisksnt](https://github.com/Erisksnt)
-
+**Contato:** [linkedin.com/in/erisk-santos](https://www.linkedin.com/in/erisk-santos)
 ---
 
 > **Nota**: Use estas ferramentas com responsabilidade e sempre em ambientes autorizados.
