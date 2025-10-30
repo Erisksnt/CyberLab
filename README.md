@@ -33,23 +33,21 @@ pip install -r requirements.txt
 
 ## 📁 Estrutura do Projeto
 
-\`\`\`
 CyberLab/
-├── Brute-Force-with-Medusa/  # Ferramentas de força bruta
-│   ├── Documentacao/         # Documentação técnica
-│   │   ├── Diagrams/         # Diagramas de rede
-│   │   ├── Scenarios/        # Cenários de ataque
-│   │   └── wordlists/        # Listas personalizadas
-│   └── README.md            # Documentação específica
-├── Malware/                 # Análise de malware
-│   ├── Keylogger/           # Ferramentas keylogger
-│   ├── Ransomware/          # Scripts ransomware educacionais
-│   ├── Defesas.md           # Técnicas defensivas
-│   └── Readme.md            # Guia de malware
-├── .gitignore
-├── LICENSE
-└── README.md
-\`\`\`
+- Brute-Force-with-Medusa/  # Ferramentas de força bruta
+  - Documentacao/           # Documentação técnica
+    - Diagrams/             # Diagramas de rede
+    - Scenarios/            # Cenários de ataque
+    - wordlists/            # Listas personalizadas
+  - README.md              # Documentação específica
+- Malware/                 # Análise de malware
+  - Keylogger/             # Ferramentas keylogger
+  - Ransomware/            # Scripts ransomware educacionais
+  - Defesas.md             # Técnicas defensivas
+  - Readme.md              # Guia de malware
+- .gitignore
+- LICENSE
+- README.md
 
 ## ⚠️ Aviso Legal
 
