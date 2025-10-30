@@ -1,45 +1,94 @@
-# 🧠 CyberLab
+# 🔐🧠 CyberLab
 
-Repositório voltado a estudos práticos e controlados sobre **Cibersegurança**, com foco em compreender o comportamento de **ataques e defesas** através de código.
+Laboratório de ferramentas e scripts para testes de segurança, análise de malware e técnicas de defesa cibernética.
+
+## 🛠️ Ferramentas Incluídas
+
+### 🔍 Malware Analysis
+- **Keylogger** - Ferramentas de monitoramento de entrada
+- **Ransomware** - Scripts educacionais de criptografia/descriptografia
+- **Defesas** - Documentação sobre proteção contra malware
+
+### ⚡ Brute Force Tools
+- **Medusa Integration** - Ferramentas de força bruta para testes de penetração
+- **Documentação Completa** - Guias e cenários de uso
+- **Wordlists** - Listas personalizadas para ataques de dicionário
+
+## 📋 Pré-requisitos
+
+- Python 3.8+
+- Bibliotecas listadas em `requirements.txt` (se aplicável)
+- Ferramentas de segurança: Medusa, Nmap, etc.
+
+## 🚀 Instalação
+
+\`\`\`bash
+# Clone o repositório
+git clone https://github.com/Erisksnt/Defense-Lab.git
+cd Defense-Lab
+
+# Instale as dependências (se necessário)
+pip install -r requirements.txt
+\`\`\`
+
+## 📁 Estrutura do Projeto
+
+\`\`\`
+Defense-Lab/
+├── Brute-Force-with-Medusa/  # Ferramentas de força bruta
+│   ├── Documentacao/         # Documentação técnica
+│   │   ├── Diagrams/         # Diagramas de rede
+│   │   ├── Scenarios/        # Cenários de ataque
+│   │   └── wordlists/        # Listas personalizadas
+│   └── README.md            # Documentação específica
+├── Malware/                 # Análise de malware
+│   ├── Keylogger/           # Ferramentas keylogger
+│   ├── Ransomware/          # Scripts ransomware educacionais
+│   ├── Defesas.md           # Técnicas defensivas
+│   └── Readme.md            # Guia de malware
+├── .gitignore
+├── LICENSE
+└── README.md
+\`\`\`
+
+## ⚠️ Aviso Legal
+
+**ATENÇÃO**: Este laboratório contém ferramentas e scripts que devem ser usados **APENAS** para:
+- Testes em ambientes controlados
+- Pesquisa educacional
+- Pentest autorizado
+- Desenvolvimento de defesas
+
+**NUNCA** use estas ferramentas para atividades ilegais ou não autorizadas.
+
+## 🎯 Casos de Uso
+
+### Testes de Segurança
+- Simulação de ataques em ambiente controlado
+- Desenvolvimento de técnicas defensivas
+- Pesquisa acadêmica em segurança
+
+### Educação
+- Aprendizado sobre técnicas de malware
+- Estudo de ferramentas de pentest
+- Desenvolvimento de contramedidas
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+- Reportar issues
+- Sugerir novas ferramentas
+- Melhorar documentação
+- Adicionar cenários de teste
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## 👨‍💻 Autor
+
+**Erick** - [Erisksnt](https://github.com/Erisksnt)
 
 ---
 
-## 👤 Sobre o Autor
-
-**Erick Snt**  
-Graduado em **Segurança da Informação** com formação técnica em **Redes de Computadores**.  
-Atua na área de **Infraestrutura e Suporte Nível 2**, com experiência sólida em **administração de redes**, **firewalls FortiGate**, **monitoramento de desempenho**, e **resposta a incidentes**.  
-Possui forte interesse em **cibersegurança ofensiva e defensiva**, buscando compreender as ameaças digitais para fortalecer a proteção de sistemas críticos.
-
----
-
-## 🧩 Sobre o Repositório
-
-O **CyberLab** é um ambiente de **estudo controlado** e **ético**, criado exclusivamente para fins **educacionais** e de **pesquisa técnica**.  
-Aqui são desenvolvidos e analisados códigos relacionados a:
-
-- 🔐 **Ransomware** — compreensão do funcionamento e das técnicas de criptografia.  
-- 🧱 **Keylogger** — estudo sobre captura de eventos e segurança de entrada.  
-- 💥 **Brute Force** — testes de força bruta em senhas simuladas.
-
-> ⚠️ **Aviso Ético:**  
-> Todo o conteúdo deste repositório é utilizado em **ambiente isolado** e **não tem fins maliciosos**.  
-> O objetivo é **educar e conscientizar** sobre vulnerabilidades e estratégias de mitigação.
-
----
-
-## 🧰 Tecnologias Utilizadas
-
-- **Python 3**
-- **Visual Studio Code**
-- **Ambiente virtual controlado (sandbox)**
-
----
-
-## 🚀 Objetivo
-
-Promover o **aprendizado prático e ético** em segurança cibernética, explorando o comportamento de ameaças e fortalecendo o entendimento sobre **detecção, prevenção e resposta a ataques**.
-
----
-
-📫 **Contato:** [linkedin.com/in/erisk-santos](https://www.linkedin.com/in/erisk-santos)
+> **Nota**: Use estas ferramentas com responsabilidade e sempre em ambientes autorizados.
