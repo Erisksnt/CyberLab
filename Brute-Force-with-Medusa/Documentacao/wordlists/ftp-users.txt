@@ -1,0 +1,10 @@
+##Lista de user para FTP
+
+@'
+root
+admin
+user
+test
+ftpuser
+mfsadmin
+'@

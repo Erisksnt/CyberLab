@@ -1,0 +1,10 @@
+##Lista de Password para HTTP
+
+@'
+12345
+admin
+user
+test
+ftpuser
+mfsadmin
+'@

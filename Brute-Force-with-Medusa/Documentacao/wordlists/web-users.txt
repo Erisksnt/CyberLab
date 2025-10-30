@@ -1,0 +1,10 @@
+##Lista de user para HTTP
+
+@'
+root
+admin
+user
+test
+ftpuser
+mfsadmin
+'@
